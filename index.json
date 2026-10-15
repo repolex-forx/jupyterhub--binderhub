@@ -1,0 +1,11 @@
+{
+  "org": "jupyterhub",
+  "repo": "binderhub",
+  "versions": [
+    {
+      "commit": "1013493a4eaf91d9ad15de0d125cd0e36505d093",
+      "tag": "",
+      "parsed_at": "2026-10-15T11:23:26.676189+00:00"
+    }
+  ]
+}
